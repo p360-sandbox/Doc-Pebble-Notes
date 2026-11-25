@@ -1,0 +1,14 @@
+publication:
+  OutputFilename: PebbleNotes
+  PublicationName: Pebble Release Notes
+  Metadata: sandbox,pebblenotes
+  ProductVersion: ''
+  Language: en
+  PublicationAuthor: docs@example.test
+  Category: Pebble
+  SubCategory: Guides
+  ProductFamily: Pebble Tools
+  Product: Pebble
+  ContentType: Release Notes
+  DateCreated: 2026-01-15
+  DateUpdated: 2026-11-05
